@@ -8,9 +8,9 @@ import android.widget.Toast;
 
 import java.util.List;
 
-/**
- * Created by notrace on 2016/8/5.
- */
+/*
+* created by zv
+* */
 public class CheckAccessbilityServices extends AccessibilityService {
     @Override
     public void onAccessibilityEvent(AccessibilityEvent event) {
